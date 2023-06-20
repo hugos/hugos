@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugos&label=Profile%20views&color=0e75b6&style=flat" alt="hugos" /> </p>
 
-- 🔭 I’m currently working on a **Sorting Algorithm Visualiser**
+- 🔭 I’m currently working on a **A fully functional e-commerce store made with React, and GraphQL on backend**
 
-- 🌱 I’m currently learning **Chrome Extension Development**
+- 🌱 I’m currently improving **My backend knowledge. And also my neovim configuration (ugh, I'm becoming one of those 🤓)**
 
 - 📝 I sometimes write articles on [dev.to/hugos](https://dev.to/hugos)
 

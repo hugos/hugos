@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a **A fully functional e-commerce store made with React, and GraphQL on backend**
 
-- 🌱 I’m currently improving **My backend knowledge. And also my neovim configuration (ugh, I'm becoming one of those 🤓)**
+- 🌱 I’m currently improving **My backend knowledge. And also my neovim configuration**
 
 - 📝 I sometimes write articles on [dev.to/hugos](https://dev.to/hugos)
 
@@ -26,7 +26,3 @@ _____
 _____
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugos&show_icons=true&locale=en&layout=compact" alt="hugos" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugos&show_icons=true&locale=en" alt="hugos" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugos&" alt="hugos" /></p>

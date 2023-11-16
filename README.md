@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugos&label=Profile%20views&color=0e75b6&style=flat" alt="hugos" /> </p>
 
-- 🔭 I’m currently working on a **A fully functional e-commerce store made with React, and GraphQL on backend**
-
-- 🌱 I’m currently improving **My backend knowledge. And also my neovim configuration**
-
-- 📝 I sometimes write articles on [dev.to/hugos](https://dev.to/hugos)
-
 - 💬 Ask me about **Data Structures & Algorithms ;)**
 
 <h3 align="left">Connect with me:</h3>
